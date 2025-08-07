@@ -1,0 +1,29 @@
+# Fichiers et dossiers à ignorer pour zoran-cryptoglyph
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*.so
+
+# Environnements virtuels
+.venv/
+env/
+
+# Dossiers de distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Dossiers d'IDE
+.idea/
+.vscode/
+
+# Fichiers système
+.DS_Store
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
